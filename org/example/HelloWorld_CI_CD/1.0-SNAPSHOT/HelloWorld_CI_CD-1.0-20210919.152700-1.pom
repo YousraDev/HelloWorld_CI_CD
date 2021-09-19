@@ -32,7 +32,7 @@
         <mockito.version>2.21.0</mockito.version>
         <jacoco.plugin.version>0.8.1</jacoco.plugin.version>
         <!-- github server corresponds to entry in ~/.m2/settings.xml -->
-        <github.global.oauth2Token>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</github.global.oauth2Token>
+        <github.global.oauth2Token>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</github.global.oauth2Token>
         <buildDirectory>${project.basedir}/target</buildDirectory>
     </properties>
 
